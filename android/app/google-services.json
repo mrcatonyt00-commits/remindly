@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1062129879806",
+    "project_id": "remindly-f878a",
+    "storage_bucket": "remindly-f878a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062129879806:android:55dfd24280d04c817173af",
+        "android_client_info": {
+          "package_name": "com.student.remindly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062129879806-og8fpgcqj72u3ahh0sn6t6tihj04unph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.student.remindly",
+            "certificate_hash": "79a0e1e6b15f1ba933756845ce93613dec726750"
+          }
+        },
+        {
+          "client_id": "1062129879806-fjsjg4oleqgfhu6b6n79ni2t63q5kuak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXE7aDq07RotHTNHpZZ8VrKCOH8ob7iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062129879806-fjsjg4oleqgfhu6b6n79ni2t63q5kuak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062129879806-v7uieed0jli9gjvkm1hbdl1hannaform.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.student.remindly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
